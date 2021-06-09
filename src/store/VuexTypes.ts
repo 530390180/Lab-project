@@ -1,0 +1,25 @@
+export const LOGIN = "LOGIN";
+export const UPDATE_EXCEPTION = "GET_EXCEPTION";
+export const UPDATE_USER = "UPDATE_USER";
+export const UPDATE_PASSWORD = "UPDATE_PASSWORD";
+// teacher
+export const UPDATE_TEACHER = "UPDATE_TEACHER";
+export const UPDATE_COURSE = "UPDATE_COURSE";
+export const ADD_COURSE = "ADD_COURSE";
+export const DELETE_COURSE = "DELETE_COURSE";
+export const UPDATE_RECORDS = "UPDATE_RECORDS";
+export const UPDATE_TEACHER_RECORDS = "UPDATE_TEACHER_RECORDS";
+export const DELETE_TEACHER_RESERVE = "DELETE_TEACHER_RESERVE";
+export const GET_TEACHER_RECORDS = "DELETE_TEACHER_RECORDS";
+// labM
+export const UPDATE_LABS = "UPDATE_LABS";
+export const ADD_LAB = "ADD_LAB";
+export const DELETE_LAB = "DELETE_LAB";
+export const UPDATE_LAB = "UPDATE_LAB";
+// teacherM
+export const UPDATE_TEACHERS = "UPDATE_TEACHERS";
+export const ADD_TEACHER = "ADD_TEACHER";
+export const ADD_USER = "ADD_USER";
+export const DELETE_TEACHER = "DELETE_TEACHER";
+export const ADMIN_UPDATE_TEACHER = "ADMIN_UPDATE_TEACHER";
+export const RESET_TEACHER_PASSORD = "RESET_TEACHER_PASSORD";
